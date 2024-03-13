@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480738743473",
+    "project_id": "my-task-planner-app",
+    "storage_bucket": "my-task-planner-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480738743473:android:2ccb45c4a0ad2bb3d1fe90",
+        "android_client_info": {
+          "package_name": "com.example.my_task_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480738743473-uhnfai772unuanoq2ev3sbcphq51eh9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRE_1ibKl5B2M1nR9mnAcsAQaJ5toG2m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480738743473-uhnfai772unuanoq2ev3sbcphq51eh9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
