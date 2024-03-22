@@ -2,6 +2,17 @@
 
 is a mobile application that helps to manage daily tasks, annual plans, and tracking the acquisition of new skills. Its simple design and the usable interface saves the user time and has a new and modern appearance that is very attractive. The project aims to help and encourage completion of tasks and continuous progress, also the application provides the best useful features based on approved effective methods. 
 
+## 4 main features:
+
+-	Providing an interface with big clock that appears to arrange daily tasks on it and relying on the use of small icons to arrange those tasks, which is one of the most important features of the application (pleasure and ease). A small window is also available to add any details related to the task.
+- Pomodoro timer, which was created by Francesco Cirillo in the late 1980s. The aim of this technique is to divide time and increase focus through a healthy balance between work and rest periods organized for perfect work without boredom through a simple process every 25 minutes of work, take 5 minutes of rest.
+This method changes many people lives. 
+- Eisenhower Matrix for prioritizing tasks, it is created by former US President Dwight Eisenhower, which relies on four sections (Urgent and Important - Not Urgent and Important - Urgent and Not important - and Not Urgent and Not importang) which is the order of priorities according to importance, as it saves time by not Preoccupation with what is not necessary.
+- -	The application provides Josh Kaufman's method to acquire new skill (The first 20 hours), which is a unique feature for developing or acquiring new skills as fast as possible, “This method isn’t theoretical it’s field-tested.”  (kufman, 2013) 
+ it works to help focusing on that during an hour every day and for only 20 hours, a new skill will be acquired. 
+
+
+
 ## Screens
 
 Splash screen - Login page  - registration page 
@@ -86,5 +97,10 @@ My skills (20h) page
 
 </div>
 
+
+## documentation For APP
+
+
+this documentation For APP [My Task planner documentation](https://www.ilovepdf.com/ar/download/dng14lcht75AkdbA7rlgjdhpxyrrl354wpp7qy3vzswwwlh9l72c89pnzf9Ams9tA8jg02cgcyf8kz7xzwd0djqhzxq443g1mt1n6yxA11yjdqwxphm772rylbrmlf7fkAtf7n3k31czvwd43jpxcAy03g4jj0cndyzg1kd1tvnwhrvj6711/47w)
 
 
